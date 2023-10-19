@@ -14,7 +14,7 @@ header {
     background-color: rgb(148, 148, 148);
 }
 
-header > h1 {
+header > h3 {
     padding: 10px;
     text-align: center;
 }
