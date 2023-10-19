@@ -33,7 +33,8 @@ span#burguer:hover {
     color: black;
 }
 
-img#img {
+img#imgparoquias {
+    width: 100vw;
     display: block;
     margin-left: auto;
     margin-right: auto;
